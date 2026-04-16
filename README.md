@@ -11,6 +11,7 @@ This project presents a financial dashboard to analyze cash flow, including infl
 - Power BI
 - SQL
 - Excel
+
 📈 Key Features
 - Cash Flow Waterfall Analysis
 - Inflow vs Outflow Breakdown
